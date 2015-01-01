@@ -1,7 +1,7 @@
 MAGIC-MATRIX
 ============
 
-GUI BASED MAGIC MATRIX
+UI BASED
 ------------------------
 ##### SNAPSHOT :star:
 
